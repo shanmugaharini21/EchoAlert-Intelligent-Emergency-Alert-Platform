@@ -8,93 +8,42 @@ EchoAlert integrates on-device sound analysis, real-time alerts, and smart acces
 Its low-latency processing ensures immediate detection while maintaining complete user privacy, as no raw audio is transmitted outside the device.
 
 🧠 Core Features
-Intelligent Sound Recognition
 
-Uses advanced sound models for identifying alarms, sirens, horns, and emergency signals.
+1. On-device emergency sound detection
 
-Fully processed on-device for privacy and speed.
+2. Privacy-first local audio processing
 
-Accessibility Enhancements
+3. Visual and tactile accessibility alerts
 
-Custom vibration patterns for different sound categories.
+4. Real-time emergency notifications
 
-Visual indicators for situations where audio may be missed.
+5. Crowd-sourced safety sound mapping
 
-Instant Alerts
-
-Immediate notifications for detected critical sounds.
-
-Emergency mode that helps notify nearby users.
-
-Mapping & Environmental Awareness
-
-Shows sound events on a community-generated safety map.
-
-Visualizes urban noise activity and alert zones.
-
-Smart Notifications
-
-Push alerts for emergency conditions.
-
-Local classification ensures dependable responses.
+6. Low-latency reliable notifications
 
 🛠 Tech Stack
-Frontend
 
-Flutter (cross-platform mobile development)
+1. Flutter cross-platform frontend
 
-Sound Analysis Engine
+2. TensorFlow Lite, YAMNet
 
-TensorFlow Lite
+3. Firebase Functions, Messaging
 
-YAMNet pre-trained sound classification model
+4. Firebase Firestore database
 
-Backend Services
-
-Firebase Functions
-
-Firebase Cloud Messaging
-
-Data Layer
-
-Firebase Firestore (real-time database)
-
-Mapping & Visualization
-
-Google Maps API / Mapbox
+5. Google Maps / Mapbox
 
 ✨ Unique Capabilities
-On-Device Processing
 
-No raw audio uploaded
+1. Offline-ready on-device AI
 
-Ultra-fast sound recognition
+2. Custom vibration feedback modes
 
-Offline-friendly
+3. Anonymous community safety insights
 
-Privacy-preserving
+4. Location-based emergency assistance
 
-Custom Vibration Patterns
-
-Three tactile modes that help distinguish sound types.
-
-Supports accessibility and real-time awareness.
-
-Community Sound Map
-
-Anonymous contributions build a shared safety ecosystem.
-
-Useful for public planning and urban sound insights.
-
-Emergency Assistance Mode
-
-Users can request help from nearby people.
-
-Nearby users receive instant location-based notifications.
-
-Future-Ready Architecture
-
-Scalable from campus-level deployments to smart-city adoption.
+5. Smart-city scalable architecture
 
 ▶️ How to Run
 1. Clone the Repository
