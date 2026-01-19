@@ -45,20 +45,25 @@ Its low-latency processing ensures immediate detection while maintaining complet
 
 5. Smart-city scalable architecture
 
-
 ▶️ How to Run
+
 1. Clone the Repository
+```
 git clone <your-repo-link>
-
-2. Install Dependencies
+```
+3. Install Dependencies
+```
 flutter pub get
-
-3. Launch the App
+```
+5. Launch the App
+```
 flutter run
+```
 
-4. Deploy Backend (If using Firebase)
+7. Deploy Backend (If using Firebase)
+```
 firebase deploy --only functions
-
+```
 
 🙏 Acknowledgements
 
