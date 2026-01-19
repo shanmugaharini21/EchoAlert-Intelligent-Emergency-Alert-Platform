@@ -49,7 +49,7 @@ Its low-latency processing ensures immediate detection while maintaining complet
 
 1. Clone the Repository
 ```
-git clone <your-repo-link>
+git <https://github.com/shanmugaharini21/EchoAlert-Intelligent-Emergency-Alert-Platform/tree/main>
 ```
 3. Install Dependencies
 ```
