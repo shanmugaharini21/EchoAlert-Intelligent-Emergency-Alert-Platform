@@ -45,6 +45,7 @@ Its low-latency processing ensures immediate detection while maintaining complet
 
 5. Smart-city scalable architecture
 
+
 ▶️ How to Run
 1. Clone the Repository
 git clone <your-repo-link>
